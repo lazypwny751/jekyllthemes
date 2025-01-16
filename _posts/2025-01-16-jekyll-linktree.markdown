@@ -12,6 +12,7 @@ license_link: https://opensource.org/license/MIT
 ---
 
 # Jekyll-Linktree
+![image](https://github.com/user-attachments/assets/ce82c7b6-048e-450c-a54d-a4bb4da4a1dc)
 
 Jekyll-Linktree is a simple and lightweight Jekyll plugin to create a customizable link tree for your personal or professional profiles. With minimal setup, you can add links to your social media, websites, or any other platforms effortlessly.
 
